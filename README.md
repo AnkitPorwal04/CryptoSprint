@@ -1,9 +1,18 @@
 # Project live hoste on:-
-https://cryptosprint.vercel.app
+[https://cryptosprint.vercel.app](https://blue-smoke-064a43600.3.azurestaticapps.net)
+
+# Azure Services:-
+1. Static web Apps:-
+
+![Screenshot 2023-09-24 170910](https://github.com/AnkitPorwal04/CryptoSprint/assets/96345105/b89ecfa9-394f-4619-9afd-764ef139ac51)
+
+2. Automation Task:-
+![Screenshot 2023-09-24 170933](https://github.com/AnkitPorwal04/CryptoSprint/assets/96345105/64e7ac81-5836-4b73-9048-34c1a2c9537b)
 
 # Project Demo
 
-https://github.com/AnkitPorwal04/CryptoSprint/assets/96345105/a3e7444d-1520-4a94-a87a-eef68e697c9d
+https://screenrec.com/share/leJpt3EXR4
+
 
 # Getting Started with Create React App
 
